@@ -47,8 +47,8 @@ Me chamo Matheus Junior Marques, tenho 18 anos e sou natural de Franca SP. Concl
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="60px" 
-    style="padding-right: 20px;" 
+    width="45px" 
+    style="padding-right: 15px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GqNCWiVG5uB5J9KNZIcT3BvhRvznKuO7mEprmdDMqWirP9eFf88lv4BFuC_srWLLjQU&usqp=CAU" 
 />
 
