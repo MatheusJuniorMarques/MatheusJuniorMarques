@@ -45,11 +45,11 @@ Me chamo Matheus Junior Marques, tenho 18 anos e sou natural de Franca SP. Concl
 
 <img 
     align="left" 
-    alt="Git" 
+    alt="MySql" 
     title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://unlix.ru/wp-content/uploads/2016/10/ustanovka-mysql.png)" 
+    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://unlix.ru/wp-content/uploads/2016/10/ustanovka-mysql.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dmysql&psig=AOvVaw25s_UkgbpjFPKK1BHJurCc&ust=1737756054696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjT8r_djIsDFQAAAAAdAAAAABAE)" 
 />
 
 
