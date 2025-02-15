@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front end`**
 
-Me chamo Matheus Junior Marques, tenho 18 anos e sou natural de Franca SP. Concluí o ensino médio na ETEC Doutor Julio Cardoso, com o curso técnico em desenvolvimento de sistemas. Agora estou me aprofundando cada vez mais nessa área e busco conseguir experiência em algum estágio, e em Fevereiro já irei começar a cursar meu ensino superior nessa mesma área.
+Me chamo Matheus Junior Marques, tenho 18 anos e sou natural de Franca SP. Concluí o ensino médio na ETEC Doutor Julio Cardoso, com o curso técnico integrado em desenvolvimento de sistemas, agora estou cursando o ensino superior na Fatec Franca em Desenvolvimento de Software Multiplataforma. Estou me aprofundando cada vez mais nessa área e estou em busca de uma oportunidade de ganhar experiência.
 
 
 ---
